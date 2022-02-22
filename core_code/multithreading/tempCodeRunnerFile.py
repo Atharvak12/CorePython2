@@ -1,0 +1,1 @@
+t1=threading.Thread(target=hello,args=("Ashish",
